@@ -24,6 +24,10 @@ nav {
 	font-size: 18px;
 }
 
+.fondoRojo {
+	background-color: red;
+}
+
 .activo {
 	background-color: #512da8;
 	border: 22px solid #512da8;
